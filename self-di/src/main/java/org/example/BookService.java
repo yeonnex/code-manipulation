@@ -2,5 +2,5 @@ package org.example;
 
 public class BookService {
     @Inject
-    BookRepository bookRepository;
+    public BookRepository bookRepository;
 }
